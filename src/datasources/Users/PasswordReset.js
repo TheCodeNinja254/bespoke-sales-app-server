@@ -1,11 +1,3 @@
-/*
- * Copyright (c) 2021.
- * Safaricom PLC
- * Systems, URLs, Databases and content in this document maybe proprietary to Safaricom PLC. Use or reproduction may require written permission from Safaricom PLC
- *
- * @Author: Fredrick Mbugua/FMMBUGUA
- */
-
 const { RESTDataSource } = require('apollo-datasource-rest');
 const https = require('https');
 const config = require('dotenv').config();
