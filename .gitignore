@@ -1,0 +1,10 @@
+node_modules/
+.idea
+.env
+error.log
+yarn-error.log
+*.log
+*.DS_Store
+logs/
+uploads/
+yarn.lock

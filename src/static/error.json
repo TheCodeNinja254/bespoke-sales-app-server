@@ -1,0 +1,97 @@
+[
+  {
+    "technicalError": "Full rental entrusted payment is configured for the subscriber.",
+    "customerMessage": "Sorry. We couldn't complete this transaction. Please contact @Safaricom_Care on Twitter."
+  },
+  {
+    "technicalError": "Invalid request, missing fields",
+    "customerMessage": "Please enter a valid amount"
+  },
+  {
+    "technicalError": "Credit Limit quota is not enough.",
+    "customerMessage": "Operation not successful due to insufficient credit limit. Please top up or select an amount within the credit limit."
+  },
+  {
+    "technicalError": "The account balance is insufficient.",
+    "customerMessage": "Operation not successful due to insufficient airtime limit. Please top up or select an amount within the airtime limit."
+  },
+  {
+    "technicalError": "ECONNREFUSED",
+    "customerMessage": "We are unable to complete your request. Please try again later."
+  },
+  {
+    "technicalError": "ECONNRESET",
+    "customerMessage": "We are unable to complete your request. Please try again later."
+  },
+  {
+    "technicalError": "ETIMEDOUT",
+    "customerMessage": "The operation has timed out. Please try again or contact @Safaricom_Care on Twitter."
+  },
+  {
+    "technicalError": "ENOTFOUND",
+    "customerMessage": "Sorry, a technical error occurred. Please try again later."
+  },
+  {
+    "technicalError": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "customerMessage": "We encountered an invalid certificate when requesting data. Please try again later."
+  },
+  {
+    "technicalError": "Header Enrichment",
+    "customerMessage": "Error encountered. Please disable WIFI and enable mobile data on your device."
+  },
+  {
+    "technicalError": "204",
+    "customerMessage": "Error encountered. Please disable WIFI and enable mobile data on your device, or try again later."
+  },
+  {
+    "technicalError": "The value of the C_SPONSOR_NUM attribute does not exist in the system or is the subscriber's phone number.",
+    "customerMessage": "Unsuccessful. you selected 'Buy for Other' but you entered your own number."
+  },
+  {
+    "technicalError": "404",
+    "customerMessage": "Oops! We are sorry we couldn't complete this transaction. Please contact @Safaricom_Care on Twitter."
+  },
+  {
+    "technicalError": "502",
+    "customerMessage": "Sorry we are experiencing a technical problem. Please try again later"
+  },
+  {
+    "technicalError": "504",
+    "customerMessage": "Sorry we are experiencing a technical problem. Please try again later"
+  },
+  {
+    "technicalError": "500",
+    "customerMessage": "Sorry we are experiencing a technical problem. Please try again later"
+  },
+  {
+    "technicalError": "No message available",
+    "customerMessage": "Sorry we are experiencing a technical problem. Please try again later"
+  },
+  {
+    "technicalError": "Mobile Number not found",
+    "customerMessage": "Sorry! Looks like we encountered a technical error retrieving your number. Please refresh this page."
+  },
+  {
+    "technicalError": "This phone number is not registered in any of Safaricom's Application",
+    "customerMessage": "Your phone number is not registered in any of Safaricom's Applications"
+  },
+  {
+    "technicalError": "No token found",
+    "customerMessage": "Sorry! Looks like we encountered an error generating a token for your home account. Please refresh this page."
+  },{
+    "technicalError": "Password Change No Allowed",
+    "customerMessage": "Sorry! Password change is now allowed for your account type. Use your domain password to login"
+  },
+  {
+  "technicalError": "Details Mismatch",
+  "customerMessage": "Sorry! Looks like we encountered an error validating your credentials. Please refresh this page."
+},
+  {
+    "technicalError": "Customer does not have any any home product",
+    "customerMessage": "Hmm! Seems you do not have any home product."
+  },
+  {
+    "technicalError": "Context creation failed: Oops! You are not authorised to access this server",
+    "customerMessage": "Sorry, you are not allowed to access this page"
+  }
+]
