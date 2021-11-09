@@ -1,7 +1,7 @@
 {
   "session": {
     "options": {
-      "key": "safaricomPortal",
+      "key": "cookieName",
       "maxAge": 86400000,
       "overwrite": true,
       "httpOnly": true,
